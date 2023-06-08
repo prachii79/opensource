@@ -1,5 +1,7 @@
 Team Members:
-Dev1
+
+Dev1: Yashasvi
 Dev2: riya
 Dev3: purvashi
+
 Manager
