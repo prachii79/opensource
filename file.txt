@@ -1,5 +1,5 @@
 Team Members:
 Dev1
-Dev2
-Dev3
+Dev2: riya
+Dev3: purvashi
 Manager
